@@ -1,0 +1,27 @@
+.main-services-grid {
+  background-image: url(./bg-img/services-bg.svg);
+  background-size: cover;
+}
+
+.main-project-grid {
+  background-image: url(./bg-img/project-bg.svg);
+  background-size: cover;
+}
+
+.main-blog-grid {
+  background-image: url(./bg-img/blog-bg.svg);
+  background-size: cover;
+}
+.main-pricing-grid {
+  background-image: url(./bg-img/prices-bg.svg);
+  background-size: cover;
+}
+
+.main-about-us-grid {
+  background-image: url(./bg-img/prices-bg.svg);
+  background-size: cover;
+}
+.main-faq-grid {
+  background-image: url(./bg-img/prices-bg.svg);
+  background-size: cover;
+}

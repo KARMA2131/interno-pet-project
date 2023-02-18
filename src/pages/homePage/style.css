@@ -1,0 +1,5 @@
+.main-grid {
+  background-image: url("./img/bg-img.png");
+  background-size: cover;
+  border-radius: 2rem;
+}
